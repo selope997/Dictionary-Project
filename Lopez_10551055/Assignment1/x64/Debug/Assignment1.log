@@ -1,0 +1,2 @@
+﻿Assignment1.obj : error LNK2019: unresolved external symbol "public: void __cdecl ExtendedDictionary::printPalindromeWords(void)" (?printPalindromeWords@ExtendedDictionary@@QEAAXXZ) referenced in function main
+D:\UNI\semester 4\C++\assigments\Assigment1\Lopez_10551055\x64\Debug\Assignment1.exe : fatal error LNK1120: 1 unresolved externals
